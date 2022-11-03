@@ -2,5 +2,8 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage. 
 Git tracks changes.
-My stupid jjjboss still prefers SVN.
+My stupid jjjboss still prefers SVN
 Creating a new branch is quick and simple.
+11
+22
+>>>>>>> dev
